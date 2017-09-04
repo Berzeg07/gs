@@ -49,7 +49,7 @@ body{
     background: #262537;
 }
 .header-left{
-   @media only screen and (min-width : 768px) {
+ @media only screen and (min-width : 768px) {
     display:flex;
     justify-content:space-between;
 }
@@ -72,10 +72,10 @@ body{
         padding-left: 18px;
     }
     span:first-child{
-       background: url(../img/tel.png) no-repeat left top 2px;
-       height: 20px;
-   }
-   span:last-child{
+     background: url(../img/tel.png) no-repeat left top 2px;
+     height: 20px;
+ }
+ span:last-child{
     background: url(../img/marker.png) no-repeat left top 2px;
     margin-top: 10px;
     height: 20px;
@@ -365,5 +365,59 @@ h2{
         font-size: 14px;
         font-weight: 400;
         color: #f7c607;
+    }
+}
+.table{
+    width: 100%;
+    tr{
+        text-align: center;
+        background:#FFFFFF;
+    }
+    td{
+        vertical-align: middle;
+    }
+    tr{
+        height: 25px;
+    }
+    tr:nth-child(1){
+        height: 48px;
+    }
+    tr:nth-child(2n+1){
+        background:#E1E1E1;
+    }
+}
+
+.color-box{
+    b{
+        color:#fff;
+        font-size: 12px;
+        font-weight: 300;
+        width: 16px;
+        display: inline-block;
+    }
+    span{
+        width: 16px;
+        height: 16px;
+        background-color: #262537;
+        border: 1px solid #e2e2e1;
+        cursor:pointer;
+        &:hover{
+            background:#F6C519;
+        }
+    }
+    .active-box{
+        background:#F6C519;
+    }
+}
+.section-title{
+    text-align: center;
+    padding: 25px 0px;
+    &_1{
+        padding-top: 0;
+    }
+    span{
+        color:#fff;
+        font-size: 18px;
+        font-weight: 300;
     }
 }

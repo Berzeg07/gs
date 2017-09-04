@@ -221,11 +221,590 @@
 
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-					<table>
-						<td></td>
+					<table class="table">
+						<tr>
+							<td>Секция</td>
+							<td>Этаж</td>
+							<td>Комнат</td>
+							<td>S,кв.м</td>
+							<td>Цена</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>4 460 000</td>
+						</tr>
 					</table>
 				</div>
-				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></div>
+				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+
+					<div class="section-title section-title_1">
+						<span>Секция 1</span>
+					</div>
+
+					<div class="color-box">
+						<b>17</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>16</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>15</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>14</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>13</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>12</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>11</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>10</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>9</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>8</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>7</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>6</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>5</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>4</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>3</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>2</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>1</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+
+					<div class="section-title">
+						<span>Секция 2</span>
+					</div>
+
+					<div class="color-box">
+						<b>17</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>16</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>15</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>14</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>13</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>12</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>11</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>10</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>9</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>8</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>7</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>6</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>5</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>4</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>3</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>2</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="color-box">
+						<b>1</b>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span class="active-box"></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+
+				</div>
 				<div class="clear"></div>
 			</div>
 		</div>

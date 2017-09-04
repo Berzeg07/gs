@@ -302,4 +302,45 @@ h2 {
     font-weight: 400;
     color: #f7c607; }
 
+.table {
+  width: 100%; }
+  .table tr {
+    text-align: center;
+    background: #FFFFFF; }
+  .table td {
+    vertical-align: middle; }
+  .table tr {
+    height: 25px; }
+  .table tr:nth-child(1) {
+    height: 48px; }
+  .table tr:nth-child(2n+1) {
+    background: #E1E1E1; }
+
+.color-box b {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+  width: 16px;
+  display: inline-block; }
+.color-box span {
+  width: 16px;
+  height: 16px;
+  background-color: #262537;
+  border: 1px solid #e2e2e1;
+  cursor: pointer; }
+  .color-box span:hover {
+    background: #F6C519; }
+.color-box .active-box {
+  background: #F6C519; }
+
+.section-title {
+  text-align: center;
+  padding: 25px 0px; }
+  .section-title_1 {
+    padding-top: 0; }
+  .section-title span {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300; }
+
 /*# sourceMappingURL=style.css.map */
