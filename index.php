@@ -887,15 +887,15 @@
 		<div class="container">
 			<div class="footer">
 				<div class="footer_item">
-					<div class="soc"><img src="img/inst.png" alt=""></div>
-					<div class="soc"><img src="img/vk.png" alt=""></div>
-					<div class="soc"><img src="img/face.png" alt=""></div>
+					<div class="soc"><a href="#"><img src="img/inst.png" alt=""></a></div>
+					<div class="soc"><a href="#"><img src="img/vk.png" alt=""></a></div>
+					<div class="soc"><a href="#"><img src="img/face.png" alt=""></a></div>
 				</div>
 				<div class="footer_item">
 					<span>© Copyright 2017 websiteName.ru all Rights received</span>
 				</div>
 				<div class="footer_item">
-					<img src="img/insight.png" alt="">
+					<a href="#"><img src="img/insight.png" alt=""></a>
 				</div>
 			</div>
 		</div>
