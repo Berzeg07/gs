@@ -8,9 +8,10 @@
 	<link rel="stylesheet" href="libs/bootstrap/bootstrap-grid-3.3.1.min.css" />
 	<link rel="stylesheet" href="libs/owl.carousel/assets/owl.carousel.css" />
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/jslider.css" type="text/css">
 
 
-	
+
 	<link rel="stylesheet" href="css/fonts.css">
 
 	
@@ -178,7 +179,47 @@
 			</div>
 
 			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></div>
+				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+
+					<div class="layot-wrap">
+						<div class="layout-slider" style="width: 100%">
+							<span style="display: inline-block; width: 100%; padding: 0 5px;"><input id="Slider1" type="slider" name="price" value="1;100" /></span> 
+						</div>
+						<div class="layot-txt">
+							<span>Площадь (S), кв.м</span>
+						</div>
+					</div>
+
+					<div class="layot-wrap">
+						<div class="layout-slider" style="width: 100%">
+							<span style="display: inline-block; width: 100%; padding: 0 5px;"><input id="Slider2" type="slider" name="price" value="1;100" /></span> 
+						</div>
+						<div class="layot-txt">
+							<span>Комнатность</span>
+						</div>
+					</div>
+
+					<div class="layot-wrap">
+						<div class="layout-slider" style="width: 100%">
+							<span style="display: inline-block; width: 100%; padding: 0 5px;"><input id="Slider3" type="slider" name="price" value="1;100" /></span> 
+						</div>
+						<div class="layot-txt">
+							<span>Цена, млн. руб.</span>
+						</div>
+					</div>
+
+					<div class="layot-wrap">
+						<div class="layout-slider" style="width: 100%">
+							<span style="display: inline-block; width: 100%; padding: 0 5px;"><input id="Slider4" type="slider" name="price" value="1;100" /></span> 
+						</div>
+						<div class="layot-txt">
+							<span>Этаж</span>
+						</div>
+					</div>
+
+
+
+				</div>
 				<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 					<table>
 						<td></td>
@@ -269,6 +310,24 @@
 	<script src="js/jquery.maskedinput.min.js"></script>
 	<script src="js/fonts.js"></script>
 	<script src="js/common.js"></script>
+	<script src="js/jshashtable-2.1_src.js"></script>
+	<script src="js/jquery.numberformatter-1.2.3.js"></script>
+	<script src="js/tmpl.js"></script>
+	<script src="js/jquery.dependClass-0.1.js"></script>
+	<script src="js/draggable-0.1.js"></script>
+	<script src="js/jquery.slider.js"></script>
+	<script type="text/javascript" charset="utf-8">
+		jQuery("#Slider1").slider({ from: 1, to: 100, step: 1, smooth: true, round: 0, dimension: "&nbsp;", skin: "round" });
+	</script>
+	<script type="text/javascript" charset="utf-8">
+		jQuery("#Slider2").slider({ from: 1, to: 100, step: 1, smooth: true, round: 0, dimension: "&nbsp;", skin: "round" });
+	</script>
+	<script type="text/javascript" charset="utf-8">
+		jQuery("#Slider3").slider({ from: 1, to: 100, step: 1, smooth: true, round: 0, dimension: "&nbsp;", skin: "round" });
+	</script>
+	<script type="text/javascript" charset="utf-8">
+		jQuery("#Slider4").slider({ from: 1, to: 100, step: 1, smooth: true, round: 0, dimension: "&nbsp;", skin: "round" });
+	</script>
 
 
 
