@@ -882,6 +882,25 @@
 		</div>
 	</div>
 
+	<!-- footer -->
+	<div class="footer-wrap">
+		<div class="container">
+			<div class="footer">
+				<div class="footer_item">
+					<div class="soc"><img src="img/inst.png" alt=""></div>
+					<div class="soc"><img src="img/vk.png" alt=""></div>
+					<div class="soc"><img src="img/face.png" alt=""></div>
+				</div>
+				<div class="footer_item">
+					<span>© Copyright 2017 websiteName.ru all Rights received</span>
+				</div>
+				<div class="footer_item">
+					<img src="img/insight.png" alt="">
+				</div>
+			</div>
+		</div>
+	</div>
+
 
 	<!-- JS_BLOCK -->
 	<script src="libs/jquery/jquery-1.11.1.min.js"></script>

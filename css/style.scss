@@ -421,3 +421,30 @@ h2{
         font-weight: 300;
     }
 }
+.footer-wrap{
+    background:#fff;
+}
+.footer{
+    padding-top: 22px;
+    @media only screen and (min-width : 992px) {
+        display: flex;
+        justify-content:space-between;
+    }
+    &_item{
+        text-align: center;
+        padding-bottom: 20px;
+        .soc{
+            display: inline-block;
+        }
+        span{
+            color: #ccc;
+            font-size: 12px;
+            font-weight: 400;
+        }
+    }
+    &_item:nth-child(2){
+        @media only screen and (min-width : 992px) {
+            padding-top: 20px;
+        }
+    }
+}
